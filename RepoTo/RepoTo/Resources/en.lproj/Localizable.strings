@@ -1,0 +1,40 @@
+// Notices
+"report_title" = "Report Facility";
+"report_notice" = "Let’s keep our restroom clean!";
+"location_title" = "Location Details";
+"location_notice" = "Select the number for the issue’s location.";
+"report_content_title" = "Report Details";
+
+// Buttons
+"report_clog" = "Clogged\n%@!";
+"report_paper" = "No toilet\npaper!";
+"report_sos" = "Need\nhelp!";
+"report_route" = "Report via %@";
+"male_button" = "Men’s\nRestroom";
+"female_button" = "Women’s\nRestroom";
+
+// Message
+"report_clog_message" = "%@ is clogged!";
+"report_paper_message" = "There is no toilet paper!";
+"report_sos_message" = "Need help!\nDetails:";
+"full_message" = "%3$@ %2$@ %1$@";
+
+// Alert
+"alert_title" = "Report sent via %@?";
+"complete_button" = "Done";
+"retry_button" = "Retry";
+
+// Words
+"floor" = "%dF ";
+"male_toilet" = "Men’s Restroom";
+"female_toilet" = "Women’s Restroom";
+"toilet" = "Toilet";
+"washbasin" = "Sink";
+"teams" = "Teams";
+"mail" = "Email";
+"door_side_washbasin" = "on the washstand near the door to the";
+"wall_side_washbasin" = "on the washstand near the wall to the";
+"door_side_toilet" = "in the stall near the door of the";
+"middle_side_toilet" = "in the middle stall of the";
+"wall_side_toilet" = "in the stall near the wall of the";
+"location_error" = "Location error";

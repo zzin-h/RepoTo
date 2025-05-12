@@ -1,0 +1,40 @@
+// Notices
+"report_title" = "設備を通報";
+"report_notice" = "きれいなトイレを一緒に！";
+"location_title" = "詳細な場所";
+"location_notice" = "該当する番号を選んでください";
+"report_content_title" = "通報内容";
+
+// Buttons
+"report_clog" = "%@が\n詰まる！";
+"report_paper" = "紙が\nないです！";
+"report_sos" = "助けが\n必要です！";
+"report_route" = "%@で通報";
+"male_button" = "男子トイレ";
+"female_button" = "女子トイレ";
+
+// Message
+"report_clog_message" = "%@がつまってます！";
+"report_paper_message" = "トイレットペーパーがありません！";
+"report_sos_message" = "助けが必要です！\n内容：";
+"full_message" = "%@の%@、%@";
+
+// Alert
+"alert_title" = "%@で通報しましたか？";
+"complete_button" = "通報完了";
+"retry_button" = "再通報";
+
+// Words
+"floor" = "%d階";
+"male_toilet" = "男子トイレ";
+"female_toilet" = "女子トイレ";
+"toilet" = "トイレ";
+"washbasin" = "洗面台";
+"teams" = "Teams";
+"mail" = "メール";
+"door_side_washbasin" = "ドア側の洗面台";
+"wall_side_washbasin" = "壁側の洗面台";
+"door_side_toilet" = "ドア側のトイレ";
+"middle_side_toilet" = "中央のトイレ";
+"wall_side_toilet" = "壁側のトイレ";
+"location_error" = "場所エラー";
